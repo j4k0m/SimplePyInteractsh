@@ -49,7 +49,7 @@ Below is a sample screenshot of the client in action, polling for DNS interactio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/interactsh-client.git
+   git clone https://github.com/j4k0m/SimplePyInteractsh.git
    ```
 2. Navigate to the project directory:
    ```bash
