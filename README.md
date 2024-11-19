@@ -53,7 +53,7 @@ Below is a sample screenshot of the client in action, polling for DNS interactio
    ```
 2. Navigate to the project directory:
    ```bash
-   cd interactsh-client
+   cd SimplePyInteractsh
    ```
 3. Run the client using Python:
    ```bash
